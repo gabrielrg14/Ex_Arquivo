@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
-
 int main() {
 	FILE *arq;
 	char nomeArq[100], aux;
